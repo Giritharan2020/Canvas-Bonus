@@ -187,7 +187,7 @@ ctx.moveTo(168,160);
 ctx.lineTo(144,160);
 ctx.lineTo(155,178);
 ctx.closePath();
-ctx.fillStyle = ' #008000';
+ctx.fillStyle = '#008000';
 ctx.fill();
 ctx.stroke();
 
@@ -197,7 +197,7 @@ ctx.moveTo(140,196);
 ctx.lineTo(167,196);
 ctx.lineTo(155,178);
 ctx.closePath();
-ctx.fillStyle = ' #008000';
+ctx.fillStyle = '#008000';
 ctx.fill();
 ctx.stroke();
 
@@ -208,7 +208,7 @@ ctx.lineTo(216,196);
 ctx.lineTo(206,178);
 ctx.lineTo(180,178);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -220,7 +220,7 @@ ctx.lineTo(216,196);
 ctx.lineTo(206,214);
 ctx.lineTo(180,214);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -231,7 +231,7 @@ ctx.lineTo(206,178);
 ctx.lineTo(216,160);
 ctx.lineTo(239,160);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -242,7 +242,7 @@ ctx.lineTo(240,234);
 ctx.lineTo(220,234);
 ctx.lineTo(206,214);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -253,7 +253,7 @@ ctx.lineTo(240,234);
 ctx.lineTo(220,234);
 ctx.lineTo(206,214);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -264,7 +264,7 @@ ctx.lineTo(250,252);
 ctx.lineTo(207,252);
 ctx.lineTo(220,234);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -275,7 +275,7 @@ ctx.lineTo(240,270);
 ctx.lineTo(220,270);
 ctx.lineTo(207,252);
 ctx.closePath();
-ctx.fillStyle = ' #cc0000';
+ctx.fillStyle = '#cc0000';
 ctx.fill();
 ctx.stroke();
 
@@ -301,7 +301,7 @@ ctx.lineTo(141,196);
 ctx.lineTo(168,196);
 ctx.lineTo(181,214);
 ctx.closePath();
-ctx.fillStyle = ' #ffff00';
+ctx.fillStyle = '#ffff00';
 ctx.fill();
 ctx.stroke();
 
@@ -314,7 +314,7 @@ ctx.lineTo(92,234);
 ctx.lineTo(105,214);
 ctx.lineTo(131,214);
 ctx.closePath();
-ctx.fillStyle = ' #ffff00';
+ctx.fillStyle = '#ffff00';
 ctx.fill();
 ctx.stroke();
 
@@ -341,7 +341,7 @@ ctx.lineTo(178,290)
 ctx.lineTo(168,270);
 ctx.lineTo(182,252);
 ctx.closePath();
-ctx.fillStyle = ' #ffff00';
+ctx.fillStyle = '#ffff00';
 ctx.fill();
 ctx.stroke();
 
@@ -436,4 +436,6 @@ ctx.lineTo(255,305);
 ctx.lineTo(233,295);
 ctx.closePath();
 ctx.stroke();
+
+
 
